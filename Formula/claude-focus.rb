@@ -3,8 +3,8 @@ class ClaudeFocus < Formula
 
   desc "One priority queue over all your Claude Code sessions in herdr or iTerm2"
   homepage "https://github.com/nejko/claude-focus"
-  url "https://files.pythonhosted.org/packages/bd/0a/9ec70187650880cbc4f30212c910c4cbc50f172eaba66e40a42c381be0b8/claude_focus-0.1.2.tar.gz"
-  sha256 "3a8224435c91abc48f829396a6a6fb926c3065ed4a68574e2e025a318d0634e6"
+  url "https://files.pythonhosted.org/packages/a5/e9/5d5dca4b07bdb2568caedeb2997b838535cc2d35508d38871c3cb15505e5/claude_focus-0.1.3.tar.gz"
+  sha256 "1a7ef6864a0bf3007ba8b145082234d02d5c7748497dce4812181b774a30fffb"
   license "MIT"
 
   depends_on :macos
@@ -21,8 +21,8 @@ class ClaudeFocus < Formula
   end
 
   resource "websockets" do
-    url "https://files.pythonhosted.org/packages/30/4b/4692be6d5bf739ed049b3813901c42091f8c054df89d5c089343823dea0d/websockets-17.3.tar.gz"
-    sha256 "1c7dd93a1c9f89297471493674b1fc1d9467cafd45374f2172213046bdb3a329"
+    url "https://files.pythonhosted.org/packages/75/79/590c5f0cc7d1661195aeefccb0e342b79f4c77d368d526d028821a390332/websockets-17.4.tar.gz"
+    sha256 "09d3939b70df0c8ad2da145ebd50978bccaee1d565e838b0e7921a34d38571eb"
   end
 
   def install

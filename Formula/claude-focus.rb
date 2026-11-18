@@ -3,8 +3,8 @@ class ClaudeFocus < Formula
 
   desc "One priority queue over all your Claude Code sessions in herdr or iTerm2"
   homepage "https://github.com/nejko/claude-focus"
-  url "https://files.pythonhosted.org/packages/86/7d/2adbc043d59e6550ba0d2e00fabfb4cae70b72f37e55bde08f779afd3fb1/claude_focus-0.1.8.tar.gz"
-  sha256 "1de5a38c9b72395fd8a91c2640f70e1eb7eb3d6c202d860bff675f706298ce65"
+  url "https://files.pythonhosted.org/packages/55/88/1743d1935b20f4975a810236e19320b671c2a99d3767a3fceb7410793c7b/claude_focus-0.2.0.tar.gz"
+  sha256 "cab7fb02e206f0a0d8c5c9208b1d1e44e0f07a4dc3cdd6fb07ebedc7ea59e198"
   license "MIT"
 
   depends_on :macos
